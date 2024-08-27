@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodExpressAdminPanel/static/css/main.43af5c98.css",
+    "main.js": "/FoodExpressAdminPanel/static/js/main.2465d229.js",
+    "index.html": "/FoodExpressAdminPanel/index.html",
+    "main.43af5c98.css.map": "/FoodExpressAdminPanel/static/css/main.43af5c98.css.map",
+    "main.2465d229.js.map": "/FoodExpressAdminPanel/static/js/main.2465d229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43af5c98.css",
+    "static/js/main.2465d229.js"
+  ]
+}
