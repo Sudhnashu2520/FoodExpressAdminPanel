@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+.img-container {
+    display: flex;
+}
+.img-container h2{
+    margin: 5px 5px;
+    font-family: outfit;
+}
+.img-container h5{
+    margin: 5px 5px;
+    font-family: outfit;
+}
+.navbar .logo{
+   
+    width: max(10%,60px);
+    height: 60px;
+    object-fit: contain;
+}
+.navbar .profile{
+    width: 40px;
+}
