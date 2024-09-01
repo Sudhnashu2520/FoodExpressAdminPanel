@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState } from 'react'
 import './List.css'
 import { url, currency } from '../../assets/assets'
@@ -9,6 +10,7 @@ const List = () => {
   const [list, setList] = useState([]);
 
   const fetchList = async () => {
+    console.log(url)
     const response = await axios.get(`${url}/api/food/list`)
     if (response.data.success) {
       setList(response.data.data);
